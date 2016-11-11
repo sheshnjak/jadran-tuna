@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="en-EN">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<!-- TemplateBeginEditable name="doctitle" --><title>Jadran tuna</title><!-- TemplateEndEditable -->
+<!--<link rel="shortcut icon" href="favicon.ico" />
+<link href="../dizajn/print.css" rel="stylesheet" type="text/css" media="print" /> -->
+<link href="../dizajn/css.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="../dizajn/jquery.js" type="text/javascript"></script>
+<script src="../dizajn/jquery.plugins.js" type="text/javascript"></script>
+<script src="../dizajn/js.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable --></head>
+<body>
+<div id="stranica">
+	<div id="zaglavljeLivo"></div><div id="zaglavljeDesno"></div>
+	<div id="zaglavlje"><img src="../dizajn/s1.jpg" />
+		<h1><a href="../index-en.html">jadran-tuna.hr</a></h1>
+		<h2>experts in tuna farming</h2>
+		<ul id="navigacija">
+			<li><a href="../index-en.html">About&nbsp;us&nbsp;</a></li>
+			<li><a href="../uzgoj-en.html" title="">Tuna&nbsp;farm&nbsp;</a></li>
+			<li><a href="../flota-en.html" title="">Fleet&nbsp;</a></li>
+			<li><a href="../tuna-en.html" title="">Tuna&nbsp;</a></li>
+			<li><a href="../foto-en.html" title="">Photos&nbsp;</a></li>
+			<li><a href="../kontakt-en.html" title="">Contact</a></li>
+			<li><a href="../index.html" title="Stranice na hrvatskom jeziku">Hrvatski</a></li>
+		</ul>
+	</div>
+	<div id="kontejner">
+		<div id="tekst"><!-- TemplateBeginEditable name="sadrzaj" -->
+			<h1>Naslov</h1>
+			<p>Tekst</p>
+			<h2>Podnaslov</h2>
+			<p>Tekst</p>
+			<h3>Podpodnaslov</h3>
+			<p>Tekst</p>
+		<!-- TemplateEndEditable --></div>
+		<div id="info">
+			<ul>
+				<li>
+					<h3><a href="../kontakt-en.html#informacije">Informations:</a></h3>
+					<ul>
+						<li>JADRAN&nbsp;TUNA<br/>
+						tuna farming and export</li>
+						<li><a href="../kontakt-en.html#lokacije">Vukovarska 86<br/>
+						23210 Biograd na Moru<br />
+						Croatia</a></li>
+					</ul>
+				</li>
+				<li>
+					<h3><a href="../kontakt-en.html#kontakt">Contact:</a></h3>
+					<ul>
+						<li><a class="emajl" href="jadran.tunaATzd.t-com.hr" style="font-size:13px"></a></li>
+						<li>Phone +385 23 385 355</li>
+						<li>Fax +385 23 385 359</li>
+						<li>Executive director +38591&nbsp;272&nbsp;1760</li>
+					</ul>
+				</li>
+			</ul>
+			<span>&nbsp;</span>
+		</div>
+		<div class="clear"></div>
+	<div id="podnozje">
+	| <a href="../index-en.html">About us</a> | 
+	<a href="../uzgoj-en.html" title="">Tuna farming</a>&nbsp;| 
+	<a href="../flota-en.html" title="">Fleet</a> | 
+	<a href="../foto-en.html" title="">Photos</a> | 
+	<a href="../kontakt-en.html" title="">Contact</a> | 
+	<a href="../index.html" title="Stranice na hrvatskom jeziku">Hrvatski</a> | 
+	</div>
+	</div>
+<div id="kopirajt"><a href="http://www.tomislavdekovic.iz.hr/">©&nbsp;..::sheshnjak::..&nbsp;</a></div>
+</div>
+</body></html>

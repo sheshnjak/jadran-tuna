@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="hr-HR">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<!-- TemplateBeginEditable name="doctitle" --><title>Jadran tuna</title><!-- TemplateEndEditable -->
+<!--<link rel="shortcut icon" href="favicon.ico" />
+<link href="../dizajn/print.css" rel="stylesheet" type="text/css" media="print" /> -->
+<link href="../dizajn/css.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="../dizajn/jquery.js" type="text/javascript"></script>
+<script src="../dizajn/jquery.plugins.js" type="text/javascript"></script>
+<script src="../dizajn/js.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable --></head>
+<body>
+<div id="stranica">
+	<div id="zaglavljeLivo"></div><div id="zaglavljeDesno"></div>
+	<div id="zaglavlje"><img src="../dizajn/s1.jpg" />
+		<h1><a href="../index.html">jadran-tuna.hr</a></h1>
+		<h2>d.o.o. za marikulturu i trgovinu</h2>
+		<ul id="navigacija">
+			<li><a href="../index.html">O nama</a></li>
+			<li><a href="../uzgoj.html">Uzgoj tuna</a></li>
+			<li><a href="../flota.html">Flota</a></li>
+			<li><a href="../tuna.html">O tuni</a></li>
+			<li><a href="../foto.html">Fotografije</a></li>
+			<li><a href="../kontakt.html">Kontakt</a></li>
+			<li><a href="../index-en.html" title="English pages">English</a></li>
+		</ul>
+	</div>
+	<div id="kontejner">
+		<div id="tekst"><!-- TemplateBeginEditable name="sadrzaj" -->
+			<h1>Naslov</h1>
+			<p>Tekst</p>
+			<h2>Podnaslov</h2>
+			<p>Tekst</p>
+			<h3>Podpodnaslov</h3>
+			<p>Tekst</p>
+		<!-- TemplateEndEditable --></div>
+		<div id="info">
+			<ul>
+				<li>
+					<h3><a href="../kontakt.html#informacije">Informacije:</a></h3>
+					<ul>
+						<li><strong>JADRAN&nbsp;TUNA d.o.o.</strong><br/>
+						za marikulturu i trgovinu</li>
+						<li><a href="../kontakt.html#lokacije">Vukovarska 86<br/>
+						23210 Biograd na Moru</a></li>
+					</ul>
+				</li>
+				<li>
+					<h3><a href="../kontakt.html#kontakt">Kontakti:</a></h3>
+					<ul>
+						<li><a class="emajl" href="jadran.tunaATzd.t-com.hr" style="font-size:13px"></a></li>
+						<li>Tel. 023 385 355</li>
+						<li>Fax. 023 385 359</li>
+						<li>Tehnički direktor 091&nbsp;272&nbsp;1760</li>
+					</ul>
+				</li>
+			</ul>
+			<span>&nbsp;</span>
+		</div>
+		<div class="clear"></div>
+	<div id="podnozje">
+	| <a href="../index.html">O nama</a> | 
+	<a href="../uzgoj.html" title="">Uzgoj tuna</a> | 
+	<a href="../flota.html" title="">Flota</a> | 
+	<a href="../tuna.html" title="">O tuni</a> | 
+	<a href="../foto.html" title="">Fotografije</a> | 
+	<a href="../kontakt.html" title="">Kontakt</a> | 
+	<a href="../index-en.html" title="English pages">English</a> | 
+	</div>
+	</div>
+<div id="kopirajt"><a href="http://www.tomislavdekovic.iz.hr/">©&nbsp;..::sheshnjak::..&nbsp;</a></div>
+</div>
+</body></html>
